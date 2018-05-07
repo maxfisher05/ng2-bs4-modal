@@ -1,0 +1,13 @@
+maxfisher05, this is a message to you as I can't open an issue on this project nor send you an email. 
+
+I'm using angular-cli (currently on 1.0.0-beta.26), and when I ran the app using 'ng serve', 
+the console prints "ERROR in ModalModule is not an NgModule".
+
+There was an issue with a previous version of angular-cli (beta 22 I think), but the developer said it's now fixed and
+if this issue happen again, it's because there's something wrong with the library itself, and not the framework.
+Link to the issue: https://github.com/angular/angular-cli/issues/3426
+
+If I use ng2-bs3-modal it works fine, the only problem is some text is messed up inside the modal (because i'm using Bootstrap 4).
+But when I switch to ng2-bs4-modal, this error appears in the console (even though it compiles...)
+
+If you have any info on this, could you please email me? lauroasr@gmail.com
